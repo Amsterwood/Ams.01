@@ -17,6 +17,4 @@
     bash start.sh -p <key>
     ```
 
-
-
    end
